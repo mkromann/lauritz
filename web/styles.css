@@ -1,0 +1,15 @@
+.footer {
+    border-top: 1px solid #eee;
+}
+
+.img--fill {
+    object-fit: cover;
+ }
+
+ .lastvisit--item {
+     max-height: 300px;
+ }
+
+ .video {
+     min-height: 300px;
+ }
