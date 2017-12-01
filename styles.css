@@ -17,3 +17,9 @@
  .flex-1 {
      flex: 1 !important;
  }
+
+ /* This need further work */
+ .img-test {
+     object-fit: cover;
+     height: 300px;
+ }
